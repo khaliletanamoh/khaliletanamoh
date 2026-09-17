@@ -4,13 +4,13 @@ Industrial Engineering × Full-Stack Web Development
 
 Problem Solver • Developer • Innovator • Technology Enthusiast
 
-<br><img src="https://komarev.com/ghpvc/?username=khalilettanamoh&label=PROFILE%20VIEWS&style=for-the-badge" alt="Profile Views"><a href="https://github.com/khalilettanamoh?tab=followers">
-<img src="https://img.shields.io/github/followers/khalilettanamoh?label=FOLLOWERS&style=for-the-badge&logo=github" alt="GitHub Followers">
+<br><img src="https://komarev.com/ghpvc/?username=khaliletanamoh&label=PROFILE%20VIEWS&style=for-the-badge" alt="Profile Views"><a href="https://github.com/khalilettanamoh?tab=followers">
+<img src="https://img.shields.io/github/followers/khaliletanamoh?label=FOLLOWERS&style=for-the-badge&logo=github" alt="GitHub Followers">
 </a></div>---
 
 👋 About Me
 
-I'm Khalil Etana Mohammed, an Industrial Engineering student and Full-Stack Web Development enthusiast passionate about technology, engineering, problem solving, and innovation.
+I'm Khalil Etana, an Industrial Engineering student and Full-Stack Web Development enthusiast passionate about technology, engineering, problem solving, and innovation.
 
 I enjoy combining engineering principles with software development to create practical digital solutions.
 
@@ -87,7 +87,7 @@ A web-based scientific and engineering calculator designed for practical calcula
 
 Technologies: "HTML" "CSS" "JavaScript"
 
-🔗 "View my GitHub projects" (https://github.com/khalilettanamoh)
+🔗 "View my GitHub projects" (https://github.com/khaliletanamoh)
 
 ---
 
@@ -147,9 +147,9 @@ Digital Transformation
 
 📊 GitHub
 
-<div align="center"><a href="https://github.com/khalilettanamoh">
-<img src="https://img.shields.io/github/stars/khalilettanamoh?label=STARS&style=for-the-badge&logo=github" alt="GitHub Stars">
-</a><a href="https://github.com/khalilettanamoh?tab=repositories">
+<div align="center"><a href="https://github.com/khaliletanamoh">
+<img src="https://img.shields.io/github/stars/khaliletanamoh?label=STARS&style=for-the-badge&logo=github" alt="GitHub Stars">
+</a><a href="https://github.com/khaliletanamoh?tab=repositories">
 <img src="https://img.shields.io/badge/REPOSITORIES-VIEW-181717?style=for-the-badge&logo=github" alt="Repositories">
 </a></div>---
 
@@ -159,7 +159,7 @@ Digital Transformation
 
 ""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/khaliletanamohd)
 
-""GitHub" (https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/khalilettanamoh)
+""GitHub" (https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/khaliletanamoh)
 
 ---
 
@@ -210,7 +210,7 @@ khaliletana641@gmail.com
 https://www.linkedin.com/in/khaliletanamohd
 
 🐙 GitHub:
-https://github.com/khalilettanamoh
+https://github.com/khaliletanamoh
 
 ✈️ Telegram:
 https://t.me/officialkhaliletana
@@ -227,7 +227,7 @@ My goal is to grow at the intersection of Industrial Engineering and Software De
 
 <div align="center">⚡ ENGINEERING THE FUTURE
 
-Khalil Etana Mohammed
+Khalil Etana
 
 Industrial Engineering × Full-Stack Development × Innovation
 
